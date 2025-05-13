@@ -1,0 +1,8 @@
+# ninja log v6
+34	238	7688722838940768	CMakeFiles/POLIMORFISMOS.dir/include/DesarrolladorSenior.cpp.obj	314940b0b3a11fc3
+25	242	7688722838850675	CMakeFiles/POLIMORFISMOS.dir/include/DesarrolladorJunior.cpp.obj	940aabf4805e09ce
+69	253	7688722839300717	CMakeFiles/POLIMORFISMOS.dir/include/tester.cpp.obj	f2f597bfc73c4738
+53	256	7688722839140824	CMakeFiles/POLIMORFISMOS.dir/include/LiderTecnico.cpp.obj	3f11b2d06b866a34
+15	268	7688722838760726	CMakeFiles/POLIMORFISMOS.dir/include/Empleado.cpp.obj	6fc68b72dcc17283
+3	1214	7688722838630745	CMakeFiles/POLIMORFISMOS.dir/main.cpp.obj	de3fe26214dae83f
+1216	1398	7688722850760718	POLIMORFISMOS.exe	79bbfa77ac9b74f3
